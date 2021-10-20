@@ -1,0 +1,23 @@
+{
+  "name": "p5-ts-template",
+  "version": "1.0.0",
+  "description": "Starter repo for a p5 project using TypeScript for the sketch language.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mckoss/p5-ts-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mckoss/p5-ts-template/issues"
+  },
+  "homepage": "https://github.com/mckoss/p5-ts-template#readme",
+  "dependencies": {
+    "@types/p5": "^1.3.1"
+  }
+}

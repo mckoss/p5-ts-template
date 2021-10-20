@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "module": "None",
+        "strict": true,
+        "sourceMap": true,
+        "outDir": "scripts"
+    },
+    "include": [
+        "src/**/*"
+    ]
+}
