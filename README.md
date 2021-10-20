@@ -10,7 +10,7 @@ $ cd my-project
 $ npm install
 ```
 
-$ Running from VS-Code
+## Running from VS-Code
 
 The best way to use this repo is to edit your sketch in VS-Code and use
 the Live Server extension (by Ritwick Dey).
@@ -28,3 +28,12 @@ sketch.
 
 Live Server will then automatically refresh your browser to show the revised sketch.
 
+## Running from Repl.it
+
+This reposiory can also be used from `repl.it`.  You can either fork
+[this repl](https://replit.com/@mckoss/p5-ts-template?v=1) or you
+can create your own repl and attach it to this
+[git repository](https://github.com/mckoss/p5-ts-template).
+
+Just click Run and your server will serve the sketch and update the
+web browser when it changes.
